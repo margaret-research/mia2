@@ -1,0 +1,174 @@
+{
+ "name": "live_set",
+ "pass_line": 80,
+ "scenarios": {
+  "owner_sun_plants": [
+   "Hello",
+   "Fine. Today I went to the field.",
+   "Yes I saw some flowers.",
+   "Pink and yellow.",
+   "Do you know the sun?",
+   "Tell me about the sun.",
+   "Oh really?",
+   "Do you know what is plants?",
+   "What color are plants?",
+   "tell me more about it."
+  ],
+  "owner_moon_mars": [
+   "Hello",
+   "Fine. Today I saw the moon.",
+   "Yes it is. How far is the moon from the earth?",
+   "Do you know some planets?",
+   "Tell me about Mars.",
+   "What color is Mars?",
+   "Is Mars a moon?",
+   "How many moons does Mars have?"
+  ],
+  "owner_grasshopper": [
+   "You know some grass hopper?",
+   "What does it eat?",
+   "Can it jump far?",
+   "I like grasshoppers.",
+   "How many legs does a grasshopper have?"
+  ],
+  "owner_sweets_calc": [
+   "Hello",
+   "I want to have sweets.",
+   "Do you like cake?",
+   "I like chocolate cake.",
+   "I have 3 cakes and my friend gives me 2 more. How many cakes do I have?",
+   "Thank you!"
+  ],
+  "owner_pens_area": [
+   "you have two pens and I have three pens, How many will be the total?",
+   "right! Now I give 2 away. How many are left?",
+   "There is a land. Length is 5m and width is 2m, How large is the area?",
+   "no you must multiply.",
+   "What is 5 times 2?"
+  ],
+  "calc_money": [
+   "I have 20 dollars. A book costs 8 dollars. How much money is left?",
+   "I buy another toy for 5 dollars. How much do I have now?",
+   "How many days are in a week?",
+   "What is half of 50?"
+  ],
+  "calc_big": [
+   "What is 250 plus 175?",
+   "I have 1200 coins and I spend 345. How many coins are left?",
+   "I have 96 cookies and 8 friends. I share them equally. How many does each friend get?"
+  ],
+  "calc_in_chat": [
+   "Hi Mia, I am home from school.",
+   "I have 4 apples and Dad gives me 6 more apples. How many apples do I have?",
+   "Yum. I ate 3 of them. How many are left?",
+   "I like apples."
+  ],
+  "llama": [
+   "Tell me about llamas.",
+   "What do they eat?",
+   "How big is it?",
+   "Do you like llamas?",
+   "I saw a llama at the zoo."
+  ],
+  "tomato": [
+   "Is a tomato a fruit?",
+   "Where do tomatoes grow?",
+   "I do not like tomatoes.",
+   "Do you like tomatoes?"
+  ],
+  "harbor": [
+   "What is a harbor?",
+   "What do boats do there?",
+   "I saw a big ship in a harbor.",
+   "Have you seen a ship?"
+  ],
+  "not_in_book": [
+   "What is an arena?",
+   "What is a bridge?",
+   "Do you know pride?",
+   "I feel proud today."
+  ],
+  "corn": [
+   "What is corn?",
+   "What covers the cob?",
+   "Do you like corn?",
+   "I eat corn in summer."
+  ],
+  "hamburger": [
+   "I am hungry.",
+   "I want a hamburger.",
+   "What is a hamburger?",
+   "What shape is the bun?",
+   "I eat two hamburgers and my brother eats 3. How many hamburgers do we eat?"
+  ],
+  "stars_night": [
+   "It is night now.",
+   "I see many stars.",
+   "Tell me about stars.",
+   "Is the sun a star?",
+   "Why do stars twinkle?"
+  ],
+  "buffalo": [
+   "Tell me about buffalo.",
+   "What do buffalo eat?",
+   "Do buffalo eat meat?",
+   "Thank you, Mia."
+  ],
+  "accordion": [
+   "What is an accordion?",
+   "How do people play it?",
+   "Can I play one at home?",
+   "Goodbye Mia."
+  ],
+  "memory_family": [
+   "Hi Mia. My name is Kayoko.",
+   "I am 7 years old.",
+   "I have a dog named Pochi.",
+   "What is my name?",
+   "How old am I?",
+   "What is my dog's name?"
+  ],
+  "memory_school": [
+   "Today was my first day at school.",
+   "I made a new friend.",
+   "Her name is Emi.",
+   "We played in the park.",
+   "What is my friend's name?"
+  ],
+  "feelings": [
+   "I am sad today.",
+   "My toy is broken.",
+   "Can you help me?",
+   "Thank you, Mia."
+  ],
+  "weather": [
+   "It is raining today.",
+   "Tell me about rain.",
+   "What is a rainbow?",
+   "I want to see a rainbow."
+  ],
+  "soccer_chat": [
+   "Hello",
+   "I am tired today.",
+   "I played soccer.",
+   "We won 3 to 1.",
+   "Do you like soccer?",
+   "Goodbye Mia."
+  ],
+  "broken_english": [
+   "hello mia",
+   "i like moon",
+   "moon has rabit?",
+   "what is sun",
+   "sun hot?"
+  ],
+  "switching": [
+   "Hello!",
+   "Tell me about the sun.",
+   "Now I have 7 stickers and I get 5 more. How many stickers do I have?",
+   "Tell me about the moon.",
+   "I am sleepy.",
+   "What is 9 times 6?"
+  ]
+ }
+}
